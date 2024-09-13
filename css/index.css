@@ -1,6 +1,11 @@
-#title{
+#title {
     text-align: center;
     text-shadow: chocolate;
     color: crimson;
-    
+}
+
+#recipes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
